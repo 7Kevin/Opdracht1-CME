@@ -1,0 +1,13 @@
+body {
+	background-color: black;
+}
+
+
+span {
+	color: green;
+}
+
+.tekst {
+	display: table;
+    margin:  auto;
+}
